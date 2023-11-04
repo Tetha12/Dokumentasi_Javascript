@@ -14,3 +14,7 @@ contoh penggunaannya = a.push()
 
 - unshift = memasukkan elemen di posisi depan
 - shift = mengeluarkan elemen di posisi depan
+
+-Splice
+cara make:
+ splice(indexAwal,mauDiHapusBerapa,elemenBaru1,elemenBaru2,.......,)
