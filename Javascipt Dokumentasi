@@ -1,11 +1,19 @@
 FUNCTION DI JAVASCIPT
 
 -> Declaration Function
+
+- Lebih Simpel
+- Mudah di Pahami Pemula
+
+Kode :
 function identifier (parameter (optional)){
 functional Body
 }
 
 -> Expression Function
+
+- Harus di defenisikan dulu sebelum di Panggil
+
 function identifier(optional) (parameter (optional)){
 functional Body
 }
