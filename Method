@@ -1,0 +1,16 @@
+Array 
+
+- lenght = mengetahui jumlah banyaknya array
+contoh penggunaannya = for(var i, i<a.lenght,i++}
+
+- join = menyatukan array secara rapi (default nya di pisahkan oleh koma)
+contoh penggunaannya = console.log(arr.join("-"))
+
+- push = menambahkan/mendorong elemen ke array posisi akhir
+contoh penggunaannya = a.push("abcd")
+
+- pop = mengeluarkan elemen dari array posisi akhir
+contoh penggunaannya = a.push()
+
+- unshift = memasukkan elemen di posisi depan
+- shift = mengeluarkan elemen di posisi depan
