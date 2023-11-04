@@ -1,0 +1,12 @@
+FUNCTION DI JAVASCIPT
+
+-> Declaration Function
+function identifier (parameter (optional)){
+functional Body
+}
+
+-> Expression Function
+function identifier(optional) (parameter (optional)){
+functional Body
+}
+
